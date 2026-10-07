@@ -9,17 +9,18 @@ Registration: VU-BIT-2511-0786-EVE
 - Disable Spring Boot Tool if enabled
 
 ## Open and run in VS Code
-1. Extract this folder from my github link provided.
+1. Extract this folder from my github link provided (Folder Name: `Individual_CW_OOP')
 2. Open VS Code.
-3. Select **File > Open Folder** and choose `GymSystem`.
+3. Select **File > Open Folder** and choose `Individual_CW_OOP`.
 4. Use the terminal commands below.
 
 # Compiling is a must to call the classes from the individual java files created
-Compile:
+
+# Compile:
 Open New terminal
 javac *.java
 
-Run:
+# Run:
 java GymApp
 
 ## Scenario implemented
